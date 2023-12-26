@@ -27,7 +27,7 @@ https://github.com/Envoy-VC/awesome-badges
 Я начинающий ML инженер. Иногда участвую в хакатонах, периодически успешно. Говорят, что если не учить в школе физику, то мир будет полон чудес. Так же и с Data Science. В свободное время играю в хоккей в любительской лиге.
 
 
-#### Что я использую
+#### Использую
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
